@@ -64,7 +64,7 @@ This project is open-source and free to use, modify, and distribute under the MI
 
 For any questions, feedback, or support regarding this project, please contact the developer(s) listed in the repository or documentation. Contributions and suggestions are welcome.
 
-**10. Link:**
+**10. Deployed Link:**
 
-[Link to the GitHub repository or code hosting platform]
+[https://codinglearner29.github.io/Myntra-Clone/]
 
