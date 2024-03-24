@@ -66,5 +66,5 @@ For any questions, feedback, or support regarding this project, please contact t
 
 **10. Deployed Link:**
 
-[https://codinglearner29.github.io/Myntra-Clone/]
+[https://sumankumari29.github.io/Myntra-Clone/]
 
